@@ -284,48 +284,6 @@
       "rating": 4,
       "comments": "Muito rápida a entrega, mas é caro.",
       "restaurantId": "coffee-corner"
-    },
-    {
-      "name": "André",
-      "date": "2016-12-12T18:25:43",
-      "rating": 4.5,
-      "comments": "Excelente como sempre!",
-      "restaurantId": "coffee-corner"
-    },
-    {
-      "name": "João",
-      "date": "2017-01-23T18:25:43",
-      "rating": 5,
-      "comments": "Excelente. Fiz o pedido com outro endereço e quando vi o erro liguei avisando. O motoqueiro cortou a cidade todinha e a comida ainda chegou quentinha (e deliciosa). Estou sempre pedindo e recomendando",
-      "restaurantId": "green-food"
-    },
-    {
-      "name": "Marcelo",
-      "date": "2017-02-02T18:25:43",
-      "rating": 4.5,
-      "comments": "Chegou muito rápido, antes mesmo da previsão",
-      "restaurantId": "green-food"
-    },
-    {
-      "name": "Fatinha",
-      "date": "2017-01-23T18:25:43",
-      "rating": 2,
-      "comments": "Ñ gostei dos sabores q pedi e achei o preço muito elevado",
-      "restaurantId": "ice-cream"
-    },
-    {
-      "name": "Lucas",
-      "date": "2017-02-02T18:25:43",
-      "rating": 2.5,
-      "comments": "Esperar 1:45hr pra receber o pedido é INACEITÁVEL",
-      "restaurantId": "ice-cream"
-    },
-    {
-      "name": "Jacira",
-      "date": "2017-02-01T18:25:43",
-      "rating": 4.5,
-      "comments": "Veio OK!",
-      "restaurantId": "ice-cream"
     }
   ]
 }
